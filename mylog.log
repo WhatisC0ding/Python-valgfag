@@ -1,0 +1,12 @@
+2022-09-30 13:23:56 DEBUG My debugging message
+2022-09-30 13:23:56 WARNING My warning. myvar is 42
+2022-09-30 13:23:56 WARNING My warning. myvar is 42
+2022-09-30 13:23:56 DEBUG My debugging message
+2022-09-30 13:23:56 WARNING My warning (mymodule)
+2022-09-30 13:23:56 DEBUG My debugging message (mymodule)
+2022-09-30 13:24:17 DEBUG My debugging message
+2022-09-30 13:24:17 WARNING My warning. myvar is 42
+2022-09-30 13:24:17 WARNING My warning. myvar is 42
+2022-09-30 13:24:17 DEBUG My debugging message
+2022-09-30 13:24:17 WARNING My warning (mymodule)
+2022-09-30 13:24:17 DEBUG My debugging message (mymodule)
